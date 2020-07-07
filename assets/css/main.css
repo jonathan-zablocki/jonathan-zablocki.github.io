@@ -1546,10 +1546,6 @@ form {
 	margin: 0 0 2em 0;
 }
 
-new-tab {
-	target: "_blank";
-}
-
 label {
 	color: #3d4449;
 	display: block;
